@@ -85,7 +85,7 @@ Contributions are welcome! Please follow these steps:
 
 MIT License
 
-Copyright (c) 2025 Kratoz
+Copyright (c) 2025 Kredix
 
 Permission is hereby granted... [include full license text if needed]
 
