@@ -1,7 +1,7 @@
 
 # Event Dashboard
 
-![Project Screenshot](https://media.istockphoto.com/id/1168518630/vector/web-develop.jpg?s=612x612&w=0&k=20&c=1zIvRkqICXbLWbeB1SKRHFcmpw4yhMHGWH8IfrZm0m0=)
+![Project Screenshot](preview.png)
 
 A modern, responsive event management dashboard with a sleek cyberpunk-inspired design. Manage upcoming events, add new ones, and showcase your portfolio in style.
 
