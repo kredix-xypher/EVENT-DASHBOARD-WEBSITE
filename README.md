@@ -1,5 +1,3 @@
-Here's a professional GitHub README.md file for your Event Dashboard project:
-
 
 # Event Dashboard
 
